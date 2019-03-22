@@ -1,0 +1,4 @@
+11 commits 
+Last commit was made on Tuesday 20.March 2018 at 14:21:18 
+Author of those commits is Stepan Bolotnikov <stjoopa@gmail.com>
+In the commit with the SHA-1 hash cebfb97 were Added local configuration data (8 new rows in a file named config.txt)
